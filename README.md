@@ -1,2 +1,2 @@
-# Website
+# AryaRathee
 basic website about me
