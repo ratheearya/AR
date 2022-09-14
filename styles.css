@@ -6,6 +6,10 @@ a {
     color: inherit; 
 }
 
+a:hover { 
+  background-color: gray;
+}
+
 p{
     padding-top: 20px;
     margin: 0;
